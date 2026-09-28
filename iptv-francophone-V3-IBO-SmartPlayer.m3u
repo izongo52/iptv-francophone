@@ -1,0 +1,68 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/fr.xml"
+# Generated for private use from publicly indexed feeds.
+# Note: availability and geo-blocking can change over time.
+#EXTINF:-1 tvg-id="France2.fr" tvg-country="FR" group-title="🇫🇷 FRANCE",France 2
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france2.m3u8
+#EXTINF:-1 tvg-id="France3.fr" tvg-country="FR" group-title="🇫🇷 FRANCE",France 3
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france3.m3u8
+#EXTINF:-1 tvg-id="France4.fr" tvg-country="FR" group-title="🇫🇷 FRANCE",France 4
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france4.m3u8
+#EXTINF:-1 tvg-id="France5.fr" tvg-country="FR" group-title="🇫🇷 FRANCE",France 5
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france5.m3u8
+#EXTINF:-1 tvg-id="ARTEFrench.fr" tvg-country="FR" group-title="🇫🇷 FRANCE",ARTE
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 tvg-id="RTB.bf" tvg-country="BF;CI;SN;CM;GN" group-title="🌍 AFRIQUE DE L'OUEST",RTB Burkina Faso
+https://edge10.vedge.infomaniak.com/livecast/rtbtvlive1/chunklist_w636226389.m3u8
+#EXTINF:-1 tvg-id="SavaneTV.bf" tvg-country="BF;CI;SN;CM;GN" group-title="🌍 AFRIQUE DE L'OUEST",Savane TV Burkina Faso
+https://edge5.vedge.infomaniak.com/livecast/savanetv/manifest.m3u8
+#EXTINF:-1 tvg-id="RTI1.ci" tvg-country="BF;CI;SN;CM;GN" group-title="🌍 AFRIQUE DE L'OUEST",RTI 1 Côte d'Ivoire
+https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTI2.ci" tvg-country="BF;CI;SN;CM;GN" group-title="🌍 AFRIQUE DE L'OUEST",RTI 2 Côte d'Ivoire
+https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EspaceTV.gn" tvg-country="BF;CI;SN;CM;GN" group-title="🌍 AFRIQUE DE L'OUEST",Espace TV Guinée
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/espace_tv/hls_video/espace_tv-video=1200000-audio_AACL_fra_65200_120=65200.m3u8
+#EXTINF:-1 tvg-id="AfriqueMedia.cm" tvg-country="BF;CI;SN;CM;GN" group-title="🌍 AFRIQUE DE L'OUEST",Afrique Media Cameroun
+http://strhls.streamakaci.tv/str_afm_afm/str_afm_multi/str_afm_afm/str_afm_afm_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="Vision4.cm" tvg-country="BF;CI;SN;CM;GN" group-title="🌍 AFRIQUE DE L'OUEST",Vision 4 Cameroun
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+#EXTINF:-1 tvg-id="TraceAfrica.fr@SD" tvg-logo="https://i.imgur.com/kPUkoS7.png" tvg-country="FR" group-title="🎵 TRACE",Trace Africa
+https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceAyiti.fr@SD" tvg-country="FR" group-title="🎵 TRACE",Trace Ayiti
+https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceGospel.fr@SD" tvg-country="FR" group-title="🎵 TRACE",Trace Gospel Africa Franco
+https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceIvoire.fr@SD" tvg-country="FR" group-title="🎵 TRACE",Trace Ivoire
+https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceKitoko.fr@SD" tvg-country="FR" group-title="🎵 TRACE",Trace Kitoko
+https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceMboa.fr@SD" tvg-country="FR" group-title="🎵 TRACE",Trace Mboa
+https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceMuzika.fr@SD" tvg-country="FR" group-title="🎵 TRACE",Trace Muzika
+https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceNaija.fr@SD" tvg-country="FR" group-title="🎵 TRACE",Trace Naija
+https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr@HD" tvg-logo="https://i.imgur.com/7s6r5Qb.png" tvg-country="FR" group-title="🎵 TRACE",Trace Sport Stars
+https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceAfrikora.fr@SD" tvg-country="FR" group-title="🎵 TRACE",Trace Teranga
+https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceToca.fr@SD" tvg-country="FR" group-title="🎵 TRACE",Trace Toca
+https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr@AfricaFranco" tvg-logo="https://i.imgur.com/DLIbUMx.png" tvg-country="FR" group-title="🎵 TRACE",Trace Urban Africa Franco
+https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr@HD" tvg-logo="https://i.imgur.com/DLIbUMx.png" tvg-country="FR" group-title="🎵 TRACE",Trace Urban France
+https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr@InternationalHD" tvg-logo="https://i.imgur.com/DLIbUMx.png" tvg-country="FR" group-title="🎵 TRACE",Trace Urban International
+https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceVanillaIslands.fr@SD" tvg-country="FR" group-title="🎵 TRACE",Trace Vanilla Islands
+https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeAfrica.fr@SD" tvg-logo="https://i.imgur.com/0N64Ddn.png" tvg-country="FR;AFR" group-title="🌍 TV5MONDE",TV5MONDE Afrique
+http://5.9.121.178/tv5monde/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TV5Monde_Logo.svg" tvg-country="FR;AFR" group-title="🌍 TV5MONDE",TV5MONDE Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TV5Monde_Logo.svg" tvg-country="FR;AFR" group-title="🌍 TV5MONDE",TV5MONDE Europe
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerland.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TV5Monde_Logo.svg" tvg-country="FR;AFR" group-title="🌍 TV5MONDE",TV5MONDE FBS
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
+#
+# EPG: https://iptv-org.github.io/epg/guides/fr.xml
+# TV5MONDE Afrique: tvg-id=TV5MondeAfrica.fr@SD
