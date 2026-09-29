@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="France24.fr@French" group-title="🇫🇷 FRANCE & FRANCOPHONIE",France 24 Français
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id="BFMTV.fr@SD" group-title="🇫🇷 FRANCE & FRANCOPHONIE",BFM TV
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="EuronewsFrench.fr@SD" group-title="🇫🇷 FRANCE & FRANCOPHONIE",Euronews Français
+https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25026/index.m3u8
+#EXTINF:-1 tvg-id="arte.fr@SD" group-title="🇫🇷 FRANCE & FRANCOPHONIE",ARTE
+http://145.239.5.177/300/index.m3u8
+#EXTINF:-1 tvg-id="KTO.fr@SD" group-title="🇫🇷 FRANCE & FRANCOPHONIE",KTO
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+#EXTINF:-1 tvg-id="20MinutesTV.fr@SD" group-title="🇫🇷 FRANCE & FRANCOPHONIE",20 Minutes TV
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+#EXTINF:-1 tvg-id="GenerationsTV.fr@SD" group-title="🇫🇷 FRANCE & FRANCOPHONIE",Générations TV
+https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+#EXTINF:-1 tvg-id="Gong.fr@SD" group-title="🇫🇷 FRANCE & FRANCOPHONIE",Gong
+https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-id="Africa24.fr@SD" group-title="🌍 AFRIQUE DE L'OUEST",Africa 24
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:-1 tvg-id="Africa24Sport.fr@SD" group-title="🌍 AFRIQUE DE L'OUEST",Africa 24 Sport
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 tvg-id="AfricanewsFrench.fr@SD" group-title="🌍 AFRIQUE DE L'OUEST",Africanews Français
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+#EXTINF:-1 tvg-id="RTB.bf" group-title="🌍 AFRIQUE DE L'OUEST",RTB Burkina Faso
+https://edge10.vedge.infomaniak.com/livecast/rtbtvlive1/chunklist_w636226389.m3u8
+#EXTINF:-1 tvg-id="RTI1.ci" group-title="🌍 AFRIQUE DE L'OUEST",RTI 1 Côte d'Ivoire
+https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTI2.ci" group-title="🌍 AFRIQUE DE L'OUEST",RTI 2 Côte d'Ivoire
+https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTS1.sn" group-title="🌍 AFRIQUE DE L'OUEST",RTS 1 Sénégal
+https://bozztv.com/36bay2/gin/giniko_rts1_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="VoxAfrica.fr@SD" group-title="🌍 AFRIQUE DE L'OUEST",Vox Africa
+https://edge-02.playmedia-cdn.net/origin01/amlst:voxafrica/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceAfrica.fr@SD" group-title="🎵 TRACE",TRACE Africa
+https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceGospel.fr@SD" group-title="🎵 TRACE",TRACE Gospel Africa Franco
+https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceIvoire.fr@SD" group-title="🎵 TRACE",TRACE Ivoire
+https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceMboa.fr@SD" group-title="🎵 TRACE",TRACE Mboa
+https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr@HD" group-title="🎵 TRACE",TRACE Sport Stars
+https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceAfrikora.fr@SD" group-title="🎵 TRACE",TRACE Teranga
+https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr@AfricaFranco" group-title="🎵 TRACE",TRACE Urban Africa Franco
+https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr@HD" group-title="🎵 TRACE",TRACE Urban France
+https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeAfrica.fr@SD" group-title="🌍 TV5MONDE",TV5MONDE Afrique
+http://5.9.121.178/tv5monde/index.m3u8
