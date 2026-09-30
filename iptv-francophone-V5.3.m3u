@@ -1,0 +1,166 @@
+#EXTM3U
+# IPTV Francophone V5.3 - basée sur les tests V5.2
+# Chaînes confessionnelles exclues.
+# Les chaînes [TEST] sont des flux alternatifs à vérifier dans IPTV Smart Player.
+
+# ===== 🇫🇷 Chaînes françaises et francophones =====
+#EXTINF:-1 group-title="🇫🇷 Chaînes françaises et francophones" tvg-id="BFMTV.fr@SD",BFM TV
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 group-title="🇫🇷 Chaînes françaises et francophones" tvg-id="EuronewsFrench.fr@SD",Euronews Français
+https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25026/index.m3u8
+#EXTINF:-1 group-title="🇫🇷 Chaînes françaises et francophones" tvg-id="20MinutesTV.fr@SD",20 Minutes TV
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+#EXTINF:-1 group-title="🇫🇷 Chaînes françaises et francophones" tvg-id="GenerationsTV.fr@SD",Générations TV
+https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+#EXTINF:-1 group-title="🇫🇷 Chaînes françaises et francophones" tvg-id="Gong.fr@SD",Gong
+https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
+#EXTINF:-1 group-title="🇫🇷 Chaînes françaises et francophones" tvg-id="TV5MondeAfrica.fr@SD",TV5MONDE Afrique
+http://5.9.121.178/tv5monde/index.m3u8
+#EXTINF:-1 group-title="🇫🇷 Chaînes françaises et francophones" tvg-id="TF1.fr@HD",TF1 HD [TEST]
+http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:-1 group-title="🇫🇷 Chaînes françaises et francophones" tvg-id="CNews.fr@SD",CNEWS [TEST]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
+#EXTINF:-1 group-title="🇫🇷 Chaînes françaises et francophones" tvg-id="M6.fr@HD",M6 [TEST]
+http://99.27.51.147:8080/M6/index.m3u8
+#EXTINF:-1 group-title="🇫🇷 Chaînes françaises et francophones" tvg-id="TMC.fr@SD",TMC [TEST]
+http://151.80.18.177:86/TMC/index.m3u8
+#EXTINF:-1 group-title="🇫🇷 Chaînes françaises et francophones" tvg-id="Gulli.fr@SD",Gulli
+http://99.27.51.147:8080/Gulli/index.m3u8
+#EXTINF:-1 group-title="🇫🇷 Chaînes françaises et francophones" tvg-id="RMCStory.fr@SD",RMC Story
+https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
+#EXTINF:-1 group-title="🇫🇷 Chaînes françaises et francophones" tvg-id="France2.fr@SD",France 2 [TEST]
+http://69.64.57.208/france2/mono.m3u8
+#EXTINF:-1 group-title="🇫🇷 Chaînes françaises et francophones" tvg-id="France24.fr@French",France 24 Français [TEST - flux alternatif]
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="🇫🇷 Chaînes françaises et francophones" tvg-id="France3.fr@National",France 3 [TEST]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8
+#EXTINF:-1 group-title="🇫🇷 Chaînes françaises et francophones" tvg-id="France4.fr@SD",France 4 [TEST]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france4.m3u8
+#EXTINF:-1 group-title="🇫🇷 Chaînes françaises et francophones" tvg-id="France5.fr@SD",France 5 [TEST]
+http://69.64.57.208/france5/mono.m3u8
+#EXTINF:-1 group-title="🇫🇷 Chaînes françaises et francophones" tvg-id="LCI.fr@HD",LCI [TEST]
+http://145.239.5.177/368/index.m3u8
+
+# ===== 🇧🇫 Burkina Faso =====
+#EXTINF:-1 group-title="🇧🇫 Burkina Faso" tvg-id="RTB.bf@SD",RTB [Not 24/7]
+https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8
+#EXTINF:-1 group-title="🇧🇫 Burkina Faso" tvg-id="RTB3.bf@SD",RTB 3
+https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8
+#EXTINF:-1 group-title="🇧🇫 Burkina Faso" tvg-id="FilinfoTV.bf@SD",Filinfo TV
+https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8
+#EXTINF:-1 group-title="🇧🇫 Burkina Faso" tvg-id="SavaneTV.bf@SD",Savane TV
+https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8
+#EXTINF:-1 group-title="🇧🇫 Burkina Faso" tvg-id="BF1.bf@SD",BF1 [TEST]
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119690/bf1/playlist.m3u8
+#EXTINF:-1 group-title="🇧🇫 Burkina Faso" tvg-id="BurkinaInfo.bf@SD",Burkina Info [TEST]
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120430/burkinainfo/playlist.m3u8
+
+# ===== 🇨🇮 Côte d'Ivoire =====
+#EXTINF:-1 group-title="🇨🇮 Côte d'Ivoire" tvg-id="RTI1.ci@SD",RTI 1
+https://video1.getstreamhosting.com:1936/8336/8336/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇮 Côte d'Ivoire" tvg-id="7Info.ci@SD",7 Info
+https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇮 Côte d'Ivoire" tvg-id="A12TV.ci@SD",A12 TV
+https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8
+#EXTINF:-1 group-title="🇨🇮 Côte d'Ivoire" tvg-id="AfroMagicChannel.ci@SD",Afro Magic Channel
+https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇮 Côte d'Ivoire" tvg-id="AfrocultureTV.ci@SD",Afroculture TV
+https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8
+#EXTINF:-1 group-title="🇨🇮 Côte d'Ivoire" tvg-id="ChampionTV.ci@SD",Champion TV
+https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8
+#EXTINF:-1 group-title="🇨🇮 Côte d'Ivoire" tvg-id="IvoireChannel.ci@SD",Ivoire Channel
+https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇮 Côte d'Ivoire" tvg-id="RefletTV.ci@SD",REFLET TV
+https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
+#EXTINF:-1 group-title="🇨🇮 Côte d'Ivoire" tvg-id="RTVC.ci@SD",RTVC
+https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8
+#EXTINF:-1 group-title="🇨🇮 Côte d'Ivoire" tvg-id="SerieMax.ci@SD",Série Max
+https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇮 Côte d'Ivoire" tvg-id="NCI.ci@SD",NCI [TEST]
+https://nci-live.secure2.footprint.net/nci/nci.isml/.m3u8
+#EXTINF:-1 group-title="🇨🇮 Côte d'Ivoire" tvg-id="RTI1.ci@SD",RTI 1 [TEST - flux alternatif]
+https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇮 Côte d'Ivoire" tvg-id="RTI2.ci@SD",RTI 2 [TEST - flux alternatif]
+https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8
+
+# ===== 🇲🇱 Mali =====
+#EXTINF:-1 group-title="🇲🇱 Mali" tvg-id="D3TV.ml@SD",D3 TV
+https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8
+#EXTINF:-1 group-title="🇲🇱 Mali" tvg-id="NietaTV.ml@SD",Nieta TV
+http://69.64.57.208/nieta/playlist.m3u8
+#EXTINF:-1 group-title="🇲🇱 Mali" tvg-id="ORTM1.ml@SD",ORTM 1 [TEST - flux alternatif]
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119033/ortm1/playlist.m3u8
+#EXTINF:-1 group-title="🇲🇱 Mali" tvg-id="ORTM2.ml@SD",ORTM 2 [TEST - flux alternatif]
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119033/ortm2/playlist.m3u8
+#EXTINF:-1 group-title="🇲🇱 Mali" tvg-id="AfricableTV.ml@SD",Africable TV [TEST - flux alternatif]
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120431/africable/playlist.m3u8
+
+# ===== 🇸🇳 Sénégal =====
+#EXTINF:-1 group-title="🇸🇳 Sénégal" tvg-id="RTS1.sn@SD",RTS 1 [TEST]
+https://iptv-all.lanesh4d0w.codes/senegal/rts1
+#EXTINF:-1 group-title="🇸🇳 Sénégal" tvg-id="RTS2.sn@SD",RTS 2 [TEST]
+https://cs2.push2stream.com/RTS2-DVR/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇳 Sénégal" tvg-id="TFM.sn@SD",TFM [TEST]
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120429/tfm/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇳 Sénégal" tvg-id="WalfTV.sn@SD",Walf TV [TEST]
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120429/walftv/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇳 Sénégal" tvg-id="SenTV.sn@SD",SEN TV [TEST]
+https://iptv-all.lanesh4d0w.codes/senegal/sentv
+#EXTINF:-1 group-title="🇸🇳 Sénégal" tvg-id="2STV.sn@SD",2STV [TEST]
+https://iptv-all.lanesh4d0w.codes/senegal/2stv
+#EXTINF:-1 group-title="🇸🇳 Sénégal" tvg-id="7TV.sn@SD",7TV [TEST]
+https://iptv-all.lanesh4d0w.codes/senegal/7tv
+#EXTINF:-1 group-title="🇸🇳 Sénégal" tvg-id="DTV.sn@SD",DTV [TEST]
+https://iptv-all.lanesh4d0w.codes/senegal/dtv
+#EXTINF:-1 group-title="🇸🇳 Sénégal" tvg-id="A2iTV.sn@SD",A2i TV [TEST]
+https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
+
+# ===== 🎵 TRACE =====
+#EXTINF:-1 group-title="🎵 TRACE" tvg-id="TraceAfrica.fr@SD",TRACE Africa
+https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
+#EXTINF:-1 group-title="🎵 TRACE" tvg-id="TraceGospel.fr@SD",TRACE Gospel Africa Franco
+https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
+#EXTINF:-1 group-title="🎵 TRACE" tvg-id="TraceMboa.fr@SD",TRACE Mboa
+https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
+#EXTINF:-1 group-title="🎵 TRACE" tvg-id="TraceSportStars.fr@HD",TRACE Sport Stars
+https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8
+#EXTINF:-1 group-title="🎵 TRACE" tvg-id="TraceAfrikora.fr@SD",TRACE Teranga
+https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
+#EXTINF:-1 group-title="🎵 TRACE" tvg-id="TraceUrban.fr@AfricaFranco",TRACE Urban Africa Franco
+https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
+#EXTINF:-1 group-title="🎵 TRACE" tvg-id="TraceUrban.fr@HD",TRACE Urban France
+https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
+#EXTINF:-1 group-title="🎵 TRACE" tvg-id="TraceKitoko.fr@SD",TRACE Kitoko
+https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
+#EXTINF:-1 group-title="🎵 TRACE" tvg-id="TraceMuzika.fr@SD",TRACE Muzika
+https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8
+#EXTINF:-1 group-title="🎵 TRACE" tvg-id="TraceNaija.fr@SD",TRACE Naija
+https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8
+
+# ===== 🌍 Afrique Autre =====
+#EXTINF:-1 group-title="🌍 Afrique Autre" tvg-id="Africa24.fr@SD",Africa 24
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:-1 group-title="🌍 Afrique Autre" tvg-id="Africa24Sport.fr@SD",Africa 24 Sport
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 group-title="🌍 Afrique Autre" tvg-id="AfricanewsFrench.fr@SD",Africanews Français
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+#EXTINF:-1 group-title="🌍 Afrique Autre" tvg-id="CRTV.cm@SD",CRTV
+https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8
+#EXTINF:-1 group-title="🌍 Afrique Autre" tvg-id="CRTVNews.cm@SD",CRTV News
+https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
+#EXTINF:-1 group-title="🌍 Afrique Autre" tvg-id="CAM10TV.cm@SD",CAM 10 TV
+https://stream.it-innov.com/cam10tv/index.m3u8
+#EXTINF:-1 group-title="🌍 Afrique Autre" tvg-id="AfriqueMedia.cm@SD",Afrique Media
+https://cloud.odysee.live/content/fe06b3cdc9412e359368b2455b6ea5e93856e382/master.m3u8
+#EXTINF:-1 group-title="🌍 Afrique Autre" tvg-id="AlloCine.cm@SD",Allo Cine
+https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
+#EXTINF:-1 group-title="🌍 Afrique Autre" tvg-id="ForYouTV.cm@SD",For You TV
+https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
+#EXTINF:-1 group-title="🌍 Afrique Autre" tvg-id="LauraDaveMediaTV.cm@SD",Laura Dave Media TV
+https://streaming.lauradavemedia.com/ldm/index.m3u8
+#EXTINF:-1 group-title="🌍 Afrique Autre" tvg-id="TR24Television.cm@SD",TR24
+https://stream.it-innov.com/tr24/index.m3u8
+#EXTINF:-1 group-title="🌍 Afrique Autre" tvg-id="LollywoodHDTV.cd@SD",Lollywood HD TV
+https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8
+#EXTINF:-1 group-title="🌍 Afrique Autre" tvg-id="EVITV.cd@SD",EVI TV
+https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8
